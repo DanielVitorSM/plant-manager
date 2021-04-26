@@ -2,7 +2,9 @@
 
 ### SOBRE
 Um aplicativo desenvolvido em React Native durante o evento Next Level Week ministrado pela Rocketseat. Ele integra diferentes bibliotecas e apis para garantir o aprendizado e oferecer uma boa interface para o usuário final;
-![Tela de seleção de Plantas](images/banner.jpeg)
+
+<img src="images/banner.jpeg" alt="Tela de seleção de Plantas" width="200" align="center"/>
+
 #### NECESSÁRIO
 * Gerenciador de pacotes como o [Yarn](https://classic.yarnpkg.com/en/docs/install/) ou [Npm](https://www.npmjs.com/get-npm)
 * Expo 4.4.2 ou posterior
