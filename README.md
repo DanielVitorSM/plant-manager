@@ -33,12 +33,12 @@ json-server src/services/server.json --host <IP> --port <PORT> --delay <DELAY>
 * Deve-se também mudar a ```baseURL```localizado na pasta ```src/services/api.ts``` para que o app possa funcionar corretamente.
 ----------------------------
 #### MAIS INFORMAÇÕES
-Daniel Vitor Silva Moreira
-contato.danielsmoreira@gmail.com
-Evento Next Level Week por Rockeatseat
-Tilha React Native
+Daniel Vitor Silva Moreira  
+contato.danielsmoreira@gmail.com  
+Evento Next Level Week por Rockeatseat  
+Tilha React Native  
 
 #### LINKS
-https://rocketseat.com.br/
-https://github.com/Rocketseat
-https://www.linkedin.com/school/rocketseat
+https://rocketseat.com.br/  
+https://github.com/Rocketseat  
+https://www.linkedin.com/school/rocketseat  
